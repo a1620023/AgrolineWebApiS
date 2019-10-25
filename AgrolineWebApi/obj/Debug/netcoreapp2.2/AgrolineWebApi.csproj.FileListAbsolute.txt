@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\obj\Debug\netcoreapp2.2\AgrolineWebApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\obj\Debug\netcoreapp2.2\AgrolineWebApi.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\obj\Debug\netcoreapp2.2\AgrolineWebApi.AssemblyInfo.cs
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\bin\Debug\netcoreapp2.2\AgrolineWebApi.deps.json
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\bin\Debug\netcoreapp2.2\AgrolineWebApi.runtimeconfig.json
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\bin\Debug\netcoreapp2.2\AgrolineWebApi.runtimeconfig.dev.json
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\bin\Debug\netcoreapp2.2\AgrolineWebApi.dll
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\bin\Debug\netcoreapp2.2\AgrolineWebApi.pdb
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\obj\Debug\netcoreapp2.2\AgrolineWebApi.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\obj\Debug\netcoreapp2.2\AgrolineWebApi.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\obj\Debug\netcoreapp2.2\AgrolineWebApi.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\obj\Debug\netcoreapp2.2\AgrolineWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\obj\Debug\netcoreapp2.2\AgrolineWebApi.dll
+C:\Users\HP\source\repos\AgrolineWebApiS\AgrolineWebApi\obj\Debug\netcoreapp2.2\AgrolineWebApi.pdb
